@@ -1,0 +1,6 @@
+The binary of 513 is 0000 0010 0000 0001 
+The binary of 5 is 0000 0101 
+Error: Invalid, '' is not a valid number.
+Error: Invalid, 'hello' is not a valid number.
+The binary of 67 is 0100 0011 
+Error: Invalid, '2.4' is not a valid number.
